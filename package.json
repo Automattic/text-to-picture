@@ -1,5 +1,5 @@
 {
-  "name": "text-to-picture",
+  "name": "@automattic/text-to-picture",
   "version": "1.0.0",
   "description": "Simply generate a centered image from text.",
   "main": "index.js",
