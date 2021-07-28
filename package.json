@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/steebchen/text-to-picture.git"
+    "url": "https://github.com/Automattic/text-to-picture.git"
   },
   "bugs": {
-    "url": "https://github.com/steebchen/text-to-picture/issues"
+    "url": "https://github.com/Automattic/text-to-picture/issues"
   },
   "engines": {
     "node": ">=8.0.0"
