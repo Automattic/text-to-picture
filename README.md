@@ -12,7 +12,9 @@ A text input "LS" could look like this:
 
 It's simple.
 
-`npm i text-to-picture`
+```
+npm i --save "text-to-picture@npm:@automattic/text-to-picture@latest"
+```
 
 With async/await.
 
